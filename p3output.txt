@@ -1,1 +1,2 @@
-
+Enter a number7
+The number is not composite
